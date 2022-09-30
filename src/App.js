@@ -6,8 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>About React JS</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+
+Declarative views make your code more predictable and easier to debug.
+
         </p>
         <a
           className="App-link"
